@@ -53,6 +53,13 @@
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,jenkins,git,vercel" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paladarsh280&bg_color=0d1117&color=58a6ff&line=58a6ff&point=f8d847&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 
 
 
